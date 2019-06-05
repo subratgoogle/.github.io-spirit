@@ -1,4 +1,4 @@
-## This is amazing webpage.
+## This is amazing Webpage.
 ### This webpage created with the help of HTML, CSS, BOOTSTRAP, and JQUERY
 
 
